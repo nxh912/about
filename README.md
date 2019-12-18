@@ -1,5 +1,5 @@
 # Ho, Ngai Lam
 
-![My QR Code](janet_qrcode.jpg)
+![QR Code](src/assets/logo.png)
 
 ## nxh912@gmail.com
