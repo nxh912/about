@@ -1,27 +1,5 @@
-# about
+# Ho, Ngai Lam
 
-## Project setup
-```
-npm install
-```
+![My QR Code](janet_qrcode.jpg)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-
-### URL : https://nxh912.github.io/about/
-
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## nxh912@gmail.com
