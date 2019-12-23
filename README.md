@@ -4,5 +4,6 @@
 
 `` nxh912@gmail.com ``
 
-[link](/https://www.linkedin.com/in/nxh912/ "Linkedin")
+[LinkedIn](https://www.linkedin.com/in/nxh912/ "Linkedin")
+
 
