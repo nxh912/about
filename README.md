@@ -1,4 +1,4 @@
-# Ho, Ngai Lam
+<!-- # Ho, Ngai Lam -->
 
 ![my QR Code](src/assets/logo.png)
 
