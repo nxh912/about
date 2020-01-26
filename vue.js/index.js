@@ -39,7 +39,13 @@ new Vue({
             </div>
         </ejs-sidebar>
         <div id="main-content container-fluid col-md-12 ">
-            <div class="title">Main content</div>
+            <div class="title">about...</div>
+            <div class="sub-title">Click the radio button to switch the sidebar position
+                <div className="center-align">
+		    <img src="/about/src/assets/logo.png"/>
+                <div>
+            <div>
+
             <div class="sub-title">Click the radio button to switch the sidebar position
                 <div className="center-align">
                     <div class="column">
