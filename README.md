@@ -3,6 +3,7 @@
 ![my QR Code](src/assets/logo.png)
 
 `` nxh912a@gmail.com ``
+[https://nxh912.github.io/about/]
 
 [Orcid](https://orcid.org/0000-0003-4768-2208 "[Orcid]")
 
